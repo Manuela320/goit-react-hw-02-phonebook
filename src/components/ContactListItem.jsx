@@ -1,4 +1,4 @@
-import Reeact from 'react';
+import React from 'react';
 
 const ContactListItem = ({ contact, onDeleteContact }) => {
     return (
